@@ -5,7 +5,8 @@ There are other features too. Such as users can see the board members, details o
 
 The web-app project was created for the completion of the Database Management System (CSE370) course at BRAC University. The technologies used for building this project are 
 - HTML, 
-- CSS - PHP 
+- CSS 
+- PHP 
 - MySQL
 
 This was a Group Project. The other contributors are 
